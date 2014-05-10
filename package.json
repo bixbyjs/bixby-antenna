@@ -28,6 +28,10 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "antenna": "~0.1.0"
+  },
+  "optionalDependencies": {
+    "antenna-amqp": "~0.1.0"
   },
   "devDependencies": {
     "mocha": "1.x.x",
