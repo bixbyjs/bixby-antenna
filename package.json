@@ -28,7 +28,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "antenna": "~0.1.0"
+    "bootable": "~0.2.4"
   },
   "optionalDependencies": {
     "antenna-amqp": "~0.1.0"
