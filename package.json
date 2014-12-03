@@ -1,7 +1,7 @@
 {
   "name": "bixby-antenna",
   "version": "0.0.0",
-  "description": "Antenna components for the Bixby framework.",
+  "description": "Bixby components for applications using Antenna.",
   "keywords": [
     "antenna",
     "bus",
